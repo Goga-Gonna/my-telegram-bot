@@ -1,0 +1,39 @@
+{
+    "pinned": "Важная информация: ...",
+    "1443474084": {
+        "last_daily_star": 1752434665.5867047,
+        "referrals": [
+            "5098179875",
+            "6800774641",
+            "5709476221"
+        ],
+        "stars": 100,
+        "bio": "Арбитраж все дела"
+    },
+    "5098179875": {
+        "stars": 10,
+        "referrals": [],
+        "last_daily_star": 1750930209.957451,
+        "referrer": "1443474084"
+    },
+    "6800774641": {
+        "stars": 0,
+        "referrals": [],
+        "last_daily_star": 0,
+        "referrer": "1443474084",
+        "subscription_msg_id": 652,
+        "subscription_chat_id": 6800774641
+    },
+    "5709476221": {
+        "stars": 30,
+        "referrals": [],
+        "last_daily_star": 1750931686.2619166,
+        "referrer": "1443474084"
+    },
+    "1818419258": {
+        "stars": 0,
+        "referrals": [],
+        "last_daily_star": 0,
+        "referrer": null
+    }
+}

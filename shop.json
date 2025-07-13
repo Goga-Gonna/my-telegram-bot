@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "name": "Стикер-пак",
+    "price": 50,
+    "description": "Набор стикеров Telegram",
+    "link": "https://t.me/addstickers/SigmaCommunite_by_TgEmodziBot"
+  },
+  {
+    "id": 2,
+    "name": "Промокод на скидку",
+    "price": 100,
+    "description": "Скидка 10% в SigmaStore"
+  }
+]

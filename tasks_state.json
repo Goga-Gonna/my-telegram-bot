@@ -1,0 +1,90 @@
+{
+    "1443474084": {
+        "subscribe_channel": {
+            "completed": false,
+            "date": "2025-07-13"
+        },
+        "daily_stars": {
+            "completed": true,
+            "date": "2025-07-13"
+        },
+        "roulette_play": {
+            "completed": true,
+            "date": "2025-07-13"
+        },
+        "guess_number": {
+            "completed": false,
+            "date": "2025-07-13"
+        },
+        "invite_friend": {
+            "completed": false,
+            "date": "2025-07-13"
+        }
+    },
+    "5709476221": {
+        "subscribe_channel": {
+            "completed": false,
+            "date": "2025-06-27"
+        },
+        "daily_stars": {
+            "completed": false,
+            "date": "2025-06-27"
+        },
+        "roulette_play": {
+            "completed": true,
+            "date": "2025-06-27"
+        },
+        "guess_number": {
+            "completed": false,
+            "date": "2025-06-27"
+        },
+        "invite_friend": {
+            "completed": false,
+            "date": "2025-06-27"
+        }
+    },
+    "5098179875": {
+        "subscribe_channel": {
+            "completed": false,
+            "date": "2025-06-27"
+        },
+        "daily_stars": {
+            "completed": false,
+            "date": "2025-06-27"
+        },
+        "roulette_play": {
+            "completed": false,
+            "date": "2025-06-27"
+        },
+        "guess_number": {
+            "completed": false,
+            "date": "2025-06-27"
+        },
+        "invite_friend": {
+            "completed": false,
+            "date": "2025-06-27"
+        }
+    },
+    "1818419258": {
+        "subscribe_channel": {
+            "completed": false,
+            "date": "2025-06-27"
+        },
+        "daily_stars": {
+            "completed": false,
+            "date": "2025-06-27"
+        },
+        "roulette_play": {
+            "completed": false,
+            "date": "2025-06-27"
+        },
+        "guess_number": {
+            "completed": false,
+            "date": "2025-06-27"
+        },
+        "invite_friend": {
+            "completed": false,
+            "date": "2025-06-27"
+        }
+    }
+}

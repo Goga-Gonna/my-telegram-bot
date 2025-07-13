@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": "subscribe_channel",
+      "title": "Подпишись на все каналы",
+      "description": "Подпишись на все наши каналы, чтобы получить звёзды",
+      "stars_reward": 10
+    },
+    {
+      "id": "daily_stars",
+      "title": "Получить ежедневные звёзды",
+      "description": "Получите бесплатные 10 звёзд один раз в день",
+      "stars_reward": 10
+    },
+    {
+      "id": "roulette_play",
+      "title": "Испытай удачу в рулетке",
+      "description": "Сыграй в рулетку хотя бы один раз",
+      "stars_reward": 0
+    },
+    {
+      "id": "guess_number",
+      "title": "Угадай число",
+      "description": "Сыграй в игру 'Угадай число' хотя бы один раз",
+      "stars_reward": 0
+    },
+    {
+      "id": "invite_friend",
+      "title": "Пригласи друга",
+      "description": "Пригласи хотя бы одного друга по реферальной ссылке",
+      "stars_reward": 10
+    }
+  ]
+}
